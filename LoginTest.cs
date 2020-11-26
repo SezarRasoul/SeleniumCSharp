@@ -38,10 +38,10 @@ namespace EvityJuno
             ThetestUser = new TestUser
             {
                 //Correct login credentials
-                Email = "holly.duce@org093813.com",
+                Email = "test@rxample.com",
                 Password = "P4$$word!",
                 //Incorrect login credentials
-                WrongEmail = "apa@somapa.com",
+                WrongEmail = "testfail@example.com",
                 WrongPassword = "tjoflöjt"
             };
         }
